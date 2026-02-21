@@ -1,4 +1,5 @@
 🌿 Plant Disease Detection using CNN
+
 📌 Project Overview
 This project uses Computer Vision and Deep Learning to automate the identification of 38 different categories of plant diseases. By analyzing leaf images, this tool provides a fast and accurate diagnosis to help farmers prevent crop loss.
 
