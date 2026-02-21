@@ -32,4 +32,9 @@ Inference: Use the saved plant_disease_model.h5 file to predict diseases on your
 
 Kaggle Setup: Insert your KAGGLE_USERNAME and KAGGLE_KEY to download the 2.7GB dataset.
 
+## 📥 Download the Model
+The trained AI model is available in the Releases section. You can download the lite version directly below:
+
+* [Download plant_disease_model.tflite (Direct Link)](https://github.com/Pradeepthi-yarlagadda/Plant-Disease-Detection-CNN/releases/tag/v1.0.0)
+
 Inference: Use the saved plant_disease_model.h5 file to predict diseases on your own leaf images.
