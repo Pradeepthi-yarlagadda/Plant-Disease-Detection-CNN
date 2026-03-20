@@ -27,6 +27,7 @@ Data Source: New Plant Diseases Dataset (Kaggle).
 Download: Get the .ipynb notebook from this repository.
 
 Kaggle Setup: Insert your KAGGLE_USERNAME and KAGGLE_KEY to download the 2.7GB dataset.
+ **Dataset:** [Kaggle Link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 Inference: Use the saved plant_disease_model.h5 file to predict diseases on your own leaf images.
 
@@ -41,5 +42,3 @@ Access the pre-trained models here:
 2. **Run Inference:**
    Place a leaf image named `test_leaf.jpg` in the folder and run:
    `python predict.py`
-
- download the 2.7GB dataset.
