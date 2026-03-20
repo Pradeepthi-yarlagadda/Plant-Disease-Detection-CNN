@@ -30,4 +30,16 @@ Kaggle Setup: Insert your KAGGLE_USERNAME and KAGGLE_KEY to download the 2.7GB d
 
 Inference: Use the saved plant_disease_model.h5 file to predict diseases on your own leaf images.
 
-Kaggle Setup: Insert your KAGGLE_USERNAME and KAGGLE_KEY to download the 2.7GB dataset.
+## 📦 Downloads & Releases
+Access the pre-trained models here:
+👉 [**Download v1.0.1 (H5 & TFLite)**](https://github.com/Pradeepthi-yarlagadda/Plant-Disease-Detection-CNN/releases/tag/v1.0.1)
+
+## 🚀 How to Use
+1. **Install Dependencies:**
+   `pip install -r requirements.txt`
+
+2. **Run Inference:**
+   Place a leaf image named `test_leaf.jpg` in the folder and run:
+   `python predict.py`
+
+ download the 2.7GB dataset.
