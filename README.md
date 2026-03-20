@@ -32,7 +32,7 @@ Inference: Use the saved plant_disease_model.h5 file to predict diseases on your
 
 ## 📦 Downloads & Releases
 Access the pre-trained models here:
-👉 [**Download v1.0.1 (H5 & TFLite)**](https://github.com/Pradeepthi-yarlagadda/Plant-Disease-Detection-CNN/releases/tag/v1.0.1)
+👉 [**Download v1.0.1 (TFLite)**](https://github.com/Pradeepthi-yarlagadda/Plant-Disease-Detection-CNN/releases/tag/v1.0.1)
 
 ## 🚀 How to Use
 1. **Install Dependencies:**
